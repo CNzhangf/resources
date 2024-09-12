@@ -1,1 +1,2 @@
 # resources
+some learnling books
